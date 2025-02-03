@@ -21,8 +21,9 @@ A simple Todo app built with React that allows users to add, update, delete, and
 ## Technologies Used
 
 - React
+- HTML
 - JavaScript
-- CSS (for styling)
+- Tailwind CSS (for styling)
 
 ## Getting Started
 
@@ -30,6 +31,8 @@ A simple Todo app built with React that allows users to add, update, delete, and
 
 - Node.js (with npm or yarn)
 - A code editor (like VS Code)
+- Tailwind CSS
+- React JS
 
 ### Installation
 
